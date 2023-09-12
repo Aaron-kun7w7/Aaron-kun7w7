@@ -1,3 +1,4 @@
+![BannerAaronkun7w7](https://github.com/Aaron-kun7w7/Aaron-kun7w7/blob/main/BannerGithub.png)
 # 💫 About Me:
 Hola, soy un programador apasionado por el desarrollo web, móvil y de escritorio. Tengo 22 años, soy de Nicaragua y estoy en mi quinto año de estudios en Ingeniería de Sistemas. Mi objetivo es participar en proyectos innovadores y colaborativos que aporten valor a la sociedad y al mundo.
 
